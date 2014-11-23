@@ -1,0 +1,43 @@
+p1 is (2,2)
+p1 distance from origin = 2.8284271247461903
+p2 is (8,8)
+p2 distance from origin = 11.313708498984761
+distance between p1 & p2 = 8.48528137423857
+----------------------------------------------
+1
+1
+1
+line is (8,8)+(2,2)
+line's length = 8.48528137423857
+line's slope = 6.0
+----------------------------------------------
+circle is (2,2),8.48528137423857
+circle's radius = 8.48528137423857
+circle's area = 226.07999999999996
+circle's circumference = 53.28756703021822
+circle's diameter = 16.97056274847714
+add 3.5 to circle's radius -------------------
+circle's radius = 11.98528137423857
+circle's area = 451.0514846057637
+circle's circumference = 75.26756703021822
+circle's diameter = 23.97056274847714
+----------------------------------------------
+rectangle is Rectangle@df4e1c6
+rectangle's bottom left Point = (8,8)
+rectangle's top righ Point = (2,2)
+rectangle's height = 6
+rectangle's width = 6
+rectangle's area = 36.0
+rectangle's diagonal = 8.48528137423857
+rectangle's perimeter = 24
+rectangle's square = true
+add 3 to x and 5 to y to scale rectangle -----
+rectangle is Rectangle@df4e1c6
+rectangle's bottom left Point = (14,18)
+rectangle's top righ Point = (5,7)
+rectangle's height = 11
+rectangle's width = 9
+rectangle's area = 99.0
+rectangle's diagonal = 14.212670403551895
+rectangle's perimeter = 40
+rectangle's square = false
