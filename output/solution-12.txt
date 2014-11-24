@@ -20,22 +20,3 @@ circle's circumference = 75.30574383302894
 circle's diameter = 23.97056274847714
 ----------------------------------------------
 orgn(8 , 8)
-rectangle is [(8 , 8), (14 , 14)]
-rectangle's bottom left Point = (8 , 8)
-rectangle's top righ Point = (14 , 14)
-rectangle's height = 6
-rectangle's width = 6
-rectangle's area = 36.0
-rectangle's diagonal = 8.48528137423857
-rectangle's perimeter = 24
-rectangle's square = true
-add 3 to x and 5 to y to scale rectangle -----
-rectangle is [(8 , 8), (17 , 19)]
-rectangle's bottom left Point = (8 , 8)
-rectangle's top righ Point = (17 , 19)
-rectangle's height = 11
-rectangle's width = 9
-rectangle's area = 99.0
-rectangle's diagonal = 14.212670403551895
-rectangle's perimeter = 40
-rectangle's square = false
